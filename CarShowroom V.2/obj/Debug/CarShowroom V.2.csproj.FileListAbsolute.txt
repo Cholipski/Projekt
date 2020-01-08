@@ -1,0 +1,20 @@
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\bin\Debug\CarShowroom V.2.exe.config
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\bin\Debug\CarShowroom V.2.exe
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\bin\Debug\CarShowroom V.2.pdb
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.AddCar.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.AddClient.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.AddOrder.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.CarLayout.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.CarList.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.ClientLayout.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.ClientList.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.CustomMessage.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.EquipmentList.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.Form1.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.Home.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.OrderLayout.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.Orders.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom_V._2.Properties.Resources.resources
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom V.2.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom V.2.exe
+C:\Users\Kamil\source\repos\CarShowroom V.2\CarShowroom V.2\obj\Debug\CarShowroom V.2.pdb
